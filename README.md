@@ -45,34 +45,40 @@ My work spans data analytics, statistical modelling, database systems, and AI-po
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts&theme=dark" />
 </p>
 
-<p align="center"><b>PROGRAMMING LANGUAGES</b></p>
+<h3 align="center">PROGRAMMING LANGUAGES</h3>
+
+<br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark" />
-  <img src="https://img.shields.io/badge/Matplotlib-0B1320?style=flat-square&logo=python&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Seaborn-0B1320?style=flat-square&logo=python&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Power%20BI-0B1320?style=flat-square&logo=powerbi&logoColor=F2C811" />
-  <img src="https://img.shields.io/badge/Excel-0B1320?style=flat-square&logo=microsoftexcel&logoColor=217346" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-<p align="center"><b>DATA SCIENCE & ANALYTICS</b></p>
+<h3 align="center">DATA SCIENCE & ANALYTICS</h3>
+
+<br/>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-0B1320?style=flat-square&logo=apachespark&logoColor=E25A1C" />
-  <img src="https://img.shields.io/badge/Hadoop-0B1320?style=flat-square&logo=apachehadoop&logoColor=66CCFF" />
-  <img src="https://img.shields.io/badge/Hive-0B1320?style=flat-square&logo=apachehive&logoColor=FDEE21" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
 </p>
 
-<p align="center"><b>DATABASES & BIG DATA</b></p>
+<h3 align="center">DATABASES & BIG DATA</h3>
+
+<br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,tailwind,git,github,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,tailwind,docker,git,github&theme=dark" />
 </p>
 
-<p align="center"><b>DEVELOPMENT & INFRASTRUCTURE</b></p>
-
----
+<h3 align="center">DEVELOPMENT & INFRASTRUCTURE</h3>
 
 ## 03 / PROJECTS
 
