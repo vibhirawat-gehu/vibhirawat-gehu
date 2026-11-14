@@ -1,151 +1,212 @@
 # VIBHI RAWAT
-### AI & DATA SCIENCE DEVELOPER
+### `AI / DATA SCIENCE / ENGINEERING`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Data+Science;Data+Analytics+%7C+Machine+Learning;Data+Engineering+%7C+Intelligent+Systems;Building+Technology+That+Matters." />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=180&section=header&text=VIBHI%20RAWAT&fontSize=48&fontColor=00E5FF&fontAlignY=45&desc=BUILDING%20INTELLIGENT%20SYSTEMS&descSize=13&descAlignY=70&descColor=FFFFFF" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-00F7FF?style=flat-square&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/DATA_SCIENCE-7B61FF?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <a href="https://github.com/vibhirawat-gehu">GITHUB</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/">LINKEDIN</a>
+  &nbsp; / &nbsp;
+  <a href="mailto:your-email@example.com">EMAIL</a>
 </p>
 
 ---
 
-## ABOUT ME
+## 01. PROFILE
 
-I am **Vibhi Rawat**, an AI & Data Science developer interested in transforming complex data into meaningful insights and building intelligent applications.
+I am an AI & Data Science developer focused on building data-driven solutions and intelligent applications.
 
-My interests lie at the intersection of data analytics, artificial intelligence, and software engineering.
+My work revolves around three core areas:
 
-- Exploring Machine Learning, AI, and Data Engineering.
-- Building data-driven applications and intelligent systems.
-- Working with Python, SQL, and business intelligence tools.
-- Interested in scalable architectures, automation, and real-world problem-solving.
+| DOMAIN | FOCUS |
+|:---|:---|
+| DATA SCIENCE | Statistical analysis, experimentation, predictive modelling |
+| DATA ENGINEERING | Data pipelines, databases, processing and infrastructure |
+| ARTIFICIAL INTELLIGENCE | LLMs, RAG systems, intelligent automation |
 
-> Turning raw data into insights and ideas into intelligent systems.
-
----
-
-## TECHNOLOGY STACK
-
-### PROGRAMMING
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
-</p>
-
-### DATA SCIENCE & ANALYTICS
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
-
-### DATABASES & BIG DATA
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
-</p>
-
-### DEVELOPMENT & AI
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,typescript,tailwind,nodejs,git,github,docker" />
-</p>
+I enjoy understanding complex problems, designing technical solutions, and turning ideas into functional products.
 
 ---
 
-## PROJECT PORTFOLIO
+## 02. TECHNICAL EXPERTISE
 
-### 01 / DATA ANALYTICS & BUSINESS INTELLIGENCE
+**LANGUAGES**
 
-Projects focused on extracting insights, statistical analysis, and data-driven decision-making.
+`Python` `SQL` `C++` `C` `JavaScript` `TypeScript`
 
-| PROJECT | DESCRIPTION | STATUS |
-|:---|:---|:---:|
-| [E-Commerce Sales Analysis](https://github.com/vibhirawat-gehu/ecommerce-sales-analysis) | Analyzed 9,994+ transactions, $2.29M in sales and $286K in profit to identify business trends and performance insights. | ![Completed](https://img.shields.io/badge/COMPLETED-00C853?style=flat-square) |
-| [A/B Testing & Regression Lab](https://github.com/vibhirawat-gehu/ab-testing-regression-lab) | Statistical experimentation, hypothesis testing, and regression analysis for evaluating business decisions. | ![Completed](https://img.shields.io/badge/COMPLETED-00C853?style=flat-square) |
-| [Stock_It](https://github.com/vibhirawat-gehu/Stock_It) | Stock market tracking and financial data analysis using market APIs, PostgreSQL, and Power BI. | ![Completed](https://img.shields.io/badge/COMPLETED-00C853?style=flat-square) |
+**DATA & ANALYTICS**
 
-### 02 / AI-POWERED APPLICATIONS & INTELLIGENT SYSTEMS
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `Power BI` `Excel`
 
-Developing intelligent applications that combine AI, automation, structured data, and scalable backend systems.
+**DATABASES & PROCESSING**
 
-| PROJECT | DESCRIPTION | STATUS |
-|:---|:---|:---:|
-| AI-Powered Accounting & Inventory Platform | Building an intelligent accounting platform featuring inventory management, purchases, financial ledgers, and AI-assisted workflows. | ![In Progress](https://img.shields.io/badge/IN_PROGRESS-00BFFF?style=flat-square) |
+`PostgreSQL` `MySQL` `MongoDB` `Apache Spark` `Hadoop` `Hive`
 
-**Current development architecture**
+**AI & DEVELOPMENT**
+
+`Machine Learning` `LLMs` `RAG` `FastAPI` `Next.js` `React` `Node.js` `Git`
+
+---
+
+## 03. SELECTED WORK
+
+### / 01 — DATA ANALYTICS & BUSINESS INTELLIGENCE
+
+Projects focused on business intelligence, statistical experimentation, and financial data analysis.
+
+<table>
+<tr>
+<td width="70%">
+
+**E-COMMERCE SALES ANALYSIS**
+
+Business performance analysis using 9,994+ transactions, uncovering sales patterns, profitability, and actionable insights.
+
+`PYTHON` `PANDAS` `EDA` `DATA VISUALIZATION`
+
+[VIEW REPOSITORY](https://github.com/vibhirawat-gehu/ecommerce-sales-analysis)
+
+</td>
+<td width="30%" align="right">
+
+**<img src="https://img.shields.io/badge/COMPLETED-00C853?style=flat-square" />**
+
+</td>
+</tr>
+<tr>
+<td width="70%">
+
+**A/B TESTING & REGRESSION LAB**
+
+Statistical experimentation and regression analysis exploring hypothesis testing, significance, and data-driven decisions.
+
+`PYTHON` `STATISTICS` `REGRESSION`
+
+[VIEW REPOSITORY](https://github.com/vibhirawat-gehu/ab-testing-regression-lab)
+
+</td>
+<td width="30%" align="right">
+
+**<img src="https://img.shields.io/badge/COMPLETED-00C853?style=flat-square" />**
+
+</td>
+</tr>
+<tr>
+<td width="70%">
+
+**STOCK_ IT**
+
+A stock market tracking and analysis solution integrating financial APIs, PostgreSQL, and Power BI.
+
+`PYTHON` `POSTGRESQL` `POWER BI` `FINANCE`
+
+[VIEW REPOSITORY](https://github.com/vibhirawat-gehu/Stock_It)
+
+</td>
+<td width="30%" align="right">
+
+**<img src="https://img.shields.io/badge/COMPLETED-00C853?style=flat-square" />**
+
+</td>
+</tr>
+</table>
+
+### / 02 — AI SYSTEMS & PRODUCT ENGINEERING
+
+Projects focused on developing intelligent software and practical AI applications.
+
+<table>
+<tr>
+<td width="70%">
+
+**AI-POWERED ACCOUNTING & INVENTORY PLATFORM**
+
+Developing an AI-powered accounting system designed around structured financial data, inventory workflows, and intelligent assistance.
+
+Core modules:
+- Inventory Management
+- Purchases & Accounts Payable
+- Financial Ledger Engine
+- AI Assistant & RAG Architecture
+
+`PYTHON` `FASTAPI` `POSTGRESQL` `NEXT.JS` `LLMs`
+
+</td>
+<td width="30%" align="right">
+
+**<img src="https://img.shields.io/badge/IN%20PROGRESS-00BFFF?style=flat-square" />**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04. SYSTEM ARCHITECTURE
+
+My current product development stack:
 
 ```text
-Frontend       Next.js | TypeScript | Tailwind CSS
-Backend        Python | FastAPI
-Database       PostgreSQL
-AI Layer       LLM Integration | RAG | AI Orchestration
-Core Modules   Inventory | Purchases | AP | Ledger Engine
+                 APPLICATION LAYER
+                 ──────────────────
+                 Next.js / TypeScript
+                         |
+                         v
+                   API GATEWAY
+                         |
+                         v
+                  BACKEND SERVICES
+                 ──────────────────
+                      FastAPI
+                         |
+              ┌──────────┴──────────┐
+              v                     v
+        BUSINESS LOGIC         AI ORCHESTRATION
+              |                     |
+              v                     v
+        POSTGRESQL DB          LLM / RAG LAYER
+              |
+              v
+       FINANCIAL DATA ENGINE
 ```
 
 ---
 
-## GITHUB ANALYTICS
+## 05. CURRENT RESEARCH & LEARNING
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vibhirawat-gehu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhirawat-gehu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=vibhirawat-gehu&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## CURRENTLY EXPLORING
-
-```yaml
-data_engineering:
-  - Advanced SQL
-  - ETL Pipelines
-  - Google Cloud Platform
-  - Apache Spark
-
-artificial_intelligence:
-  - Machine Learning
-  - Generative AI
-  - Large Language Models
-  - RAG Architectures
-
-analytics:
-  - Statistical Analysis
-  - Predictive Analytics
-  - Business Intelligence
-```
+| AREA | EXPLORATION |
+|:---|:---|
+| Data Engineering | ETL, Apache Spark, data pipelines |
+| Cloud | Google Cloud Platform |
+| AI | Generative AI, LLM applications, RAG |
+| Analytics | Advanced SQL, predictive analytics |
+| Systems | Backend architecture and database optimization |
 
 ---
 
-## BEYOND CODE
+## 06. BEYOND DEVELOPMENT
 
-- Participated in 4 national-level hackathons.
-- NPTEL certified in Python and Data Science.
+- 4 national-level hackathon participations.
+- NPTEL certification in Python and Data Science.
 - Mentored 50+ international students in programming and technical subjects.
-- Interested in research, innovation, and building technology for real-world problems.
 
 ---
 
-## CONNECT
+## 07. GITHUB ACTIVITY
 
 <p align="center">
-  <a href="https://github.com/vibhirawat-gehu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=vibhirawat-gehu&show_icons=true&hide_border=true&bg_color=0B1020&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&hide_title=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhirawat-gehu&layout=compact&hide_border=true&bg_color=0B1020&title_color=00E5FF&text_color=FFFFFF" width="49%" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B61FF&height=110&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=2&section=footer" width="100%" />
+  <sub>DESIGNED & BUILT BY VIBHI RAWAT · 2026</sub>
+  <br/>
+  <sub>Turning data into intelligence. Turning ideas into systems.</sub>
 </p>
