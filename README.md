@@ -9,10 +9,10 @@
   <a href="https://github.com/vibhirawat-gehu">
     <img src="https://img.shields.io/badge/GITHUB-101820?style=for-the-badge&logo=github&logoColor=00E5FF" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/vibhi-rawat/">
     <img src="https://img.shields.io/badge/LINKEDIN-101820?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:rawatvibhi2020@gmail.com">
     <img src="https://img.shields.io/badge/CONTACT-101820?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
   </a>
 </p>
@@ -23,7 +23,7 @@
 
 ---
 
-## 01 / WHO AM I?
+## 01. WHO AM I?
 
 I am an AI & Data Science developer interested in building intelligent, data-driven solutions and engineering systems that solve practical problems.
 
@@ -39,7 +39,7 @@ My work spans data analytics, statistical modelling, database systems, and AI-po
 
 ---
 
-## 02 / TECHNOLOGY ECOSYSTEM
+## 02. TECHNOLOGY ECOSYSTEM
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts&theme=dark" />
@@ -80,7 +80,7 @@ My work spans data analytics, statistical modelling, database systems, and AI-po
 
 <h3 align="center">DEVELOPMENT & INFRASTRUCTURE</h3>
 
-## 03 / PROJECTS
+## 03. PROJECTS
 
 A collection of projects involving analytical problem-solving, statistical experimentation, financial data, and intelligent software systems.
 
@@ -194,7 +194,7 @@ Developing an intelligent accounting platform designed to simplify financial ope
 
 ---
 
-## 04 / ENGINEERING FOCUS
+## 04. ENGINEERING FOCUS
 
 Currently exploring the following technical areas:
 
@@ -253,7 +253,7 @@ Currently exploring the following technical areas:
 
 ---
 
-## 05 / CURRENT DEVELOPMENT
+## 05. CURRENT DEVELOPMENT
 
 One of my current priorities is developing a production-oriented AI accounting application.
 
@@ -294,7 +294,7 @@ The architecture combines structured financial processing with an intelligent AI
 
 ---
 
-## 06 / ACHIEVEMENTS & EXPERIENCE
+## 06. ACHIEVEMENTS & EXPERIENCE
 
 <table>
 <tr>
@@ -327,7 +327,7 @@ The architecture combines structured financial processing with an intelligent AI
 
 ---
 
-## 07 / BEYOND THE CODE
+## 07. BEYOND THE CODE
 
 I believe that strong engineering requires more than writing code. It involves curiosity, experimentation, communication, and the ability to approach unfamiliar problems.
 
@@ -335,13 +335,13 @@ My interests extend to research, emerging technologies, and developing products 
 
 ---
 
-## 08 / CONNECT
+## 08. CONNECT
 
 <p align="center">
   <a href="https://github.com/vibhirawat-gehu">
     <img src="https://img.shields.io/badge/GITHUB-View%20Repositories-101820?style=for-the-badge&logo=github&logoColor=00E5FF" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/vibhi-rawat/">
     <img src="https://img.shields.io/badge/LINKEDIN-Professional%20Profile-101820?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
   </a>
 </p>
